@@ -65,6 +65,7 @@
     "sel_pin_lv":"1",
     "crc":"45"
 }
+```
 
 ## Finishing up
 12. Reboot the device.
