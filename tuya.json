@@ -1,0 +1,40 @@
+Device configuration, as extracted from Tuya: 
+- BL0937 SEL on P24
+- Button (channel 1) on P10
+- BL0937 VI on P6
+- WiFi LED on P8
+- BL0937 ELE on P7
+- Relay (channel 1) on P26
+Device seems to be using CB2S module, which is using BK7231N.
+And the Tuya section starts, as usual, at 2023424
+
+{
+	"sel_pin_pin":"24",
+	"rl1_lv":"1",
+	"bt1_pin":"10",
+	"net_trig":"2",
+	"jv":"1.0.7",
+	"netled1_lv":"0",
+	"netled_reuse":"1",
+	"ffc_select":"0",
+	"vi_pin":"6",
+	"resistor":"1",
+	"over_cur":"17300",
+	"bt1_lv":"0",
+	"reset_t":"3",
+	"netled1_pin":"8",
+	"chip_type":"0",
+	"lose_vol":"100",
+	"over_vol":"300",
+	"module":"CB2S",
+	"ele_pin":"7",
+	"ch_cddpid1":"9",
+	"ch1_stat":"2",
+	"ch_num":"1",
+	"ele_fun_en":"1",
+	"rl1_pin":"26",
+	"vol_def":"0",
+	"ch_dpid1":"1",
+	"sel_pin_lv":"1",
+	"crc":"45"
+}
