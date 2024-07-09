@@ -1,5 +1,8 @@
 # Guide: Flashing the Aldi Bauhn ASPWC2-0624
 
+## Forenote
+I do not reccomend buying this plug. It requires you to desolder the mains terminals.
+
 ## Preparation and Disassembly
 1. Open the device by removing two triangle head screws.
 2. Remove two small Phillips head screws located in the corners near the USB ports.
@@ -14,7 +17,7 @@
 ![Flashing Setup](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashing-Setup.jpg?raw=true)
 
 ## Flashing Process
-5. Download the flashing tool from [GitHub](https://github.com/openshwprojects/BK7231GUIFlashTool)).
+5. Download the flashing tool from [GitHub](https://github.com/openshwprojects/BK7231GUIFlashTool).
 
 ![BK7231 Flasher Tool](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashtool.png?raw=true)
 
