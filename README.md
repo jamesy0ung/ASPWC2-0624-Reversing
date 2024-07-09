@@ -14,9 +14,9 @@
 ![Flashing Setup](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashing-Setup.jpg?raw=true)
 
 ## Flashing Process
-5. Download the flashing tool from [GitHub](https://github.com/openshwprojects/BK7231_SPI_Flasher).
+5. Download the flashing tool from [GitHub](https://github.com/openshwprojects/BK7231GUIFlashTool)).
 
-![BK7231 SPI Flasher Tool Interface](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashtool.png?raw=true)
+![BK7231 Flasher Tool](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashtool.png?raw=true)
 
 6. Open the flashing tool and navigate to "UART Timeouts". Set all values to 5 seconds.
 7. Set the baud rate to 115200.
