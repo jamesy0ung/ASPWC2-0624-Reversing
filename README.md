@@ -11,6 +11,8 @@
    - Ground
    - Receive and transmit lines to a serial converter
 
+![Flashing Setup](https://github.com/jamesy0ung/ASPWC2-0624-Reversing/blob/main/Flashing-Setup.jpg?raw=true)
+
 ## Flashing Process
 5. Download the flashing tool from [GitHub](https://github.com/openshwprojects/BK7231_SPI_Flasher).
 
